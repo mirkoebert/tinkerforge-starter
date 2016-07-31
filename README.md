@@ -10,12 +10,17 @@ This project uses Tinkerforge as electrinc framework for siftware developers. Yo
 - Accelerometer Bricklet
 
 ## Prepare
+- Install Java 8 JDK
+
+## First Step
 - Download Brick Viewer http://www.tinkerforge.com/en/doc/Downloads.html
 - Install and Start Brick Viewer
 - Connect all bricklets with the master brick
 - Connect master brick via USB with your computer
 - Push `Connect`in Brick Viewer
 
+## First Program
+- 
 
 ## Links
 - Tinkerforge Documetaion and Shop: http://www.tinkerforge.com
