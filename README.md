@@ -19,8 +19,13 @@ This project uses Tinkerforge as electrinc framework for siftware developers. Yo
 - Connect master brick via USB with your computer
 - Push `Connect`in Brick Viewer
 
-## First Program
-- 
+## Challenges
+- Hello World
+- Simple Themometer
+- Thermomenter and Clock
+- Call Back
+- Ambient Light as contactless switch
+- Accelerometer as contactless switch
 
 ## Links
 - Tinkerforge Documetaion and Shop: http://www.tinkerforge.com
