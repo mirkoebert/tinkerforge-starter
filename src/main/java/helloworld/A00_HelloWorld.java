@@ -3,7 +3,7 @@ package helloworld;
 
 import com.tinkerforge.*;
 
-public final class HelloWorldExample {
+public final class A00_HelloWorld {
 	private static final String HOST = "localhost";
 	private static final int PORT = 4223;
 
@@ -17,10 +17,11 @@ public final class HelloWorldExample {
 		ipcon.connect(HOST, PORT); // Connect to brickd
 		// Don't use device before ipcon is connected
 
+		// http://www.tinkerforge.com/en/doc/Software/Bricklets/SegmentDisplay4x7_Bricklet_Java.html#segment-display-4x7-bricklet-java-examples
 		short[] segments = {0b01110110,0b01111001,0b00111000,0b00111000};
-		sd.setSegments(segments, (short)3, false);
-
-
+		sd.setSegments(segments, (short)3, true);
+		System.out.println(sd.getSegments());
+		
 		ipcon.disconnect();
 	}
 
