@@ -23,8 +23,9 @@ This project uses Tinkerforge as electrinc framework for siftware developers. Yo
 - Hello World
 - Simple Themometer
 - Thermomenter and Clock
-- Call Back
-- Ambient Light as contactless switch
+- Small weather station with temeperatur, time and illumination
+- Resource saving programming with Call Backs/Listeners
+- Ambient Light sensor as contactless display light switch
 - Accelerometer as contactless switch
 
 ## Links
