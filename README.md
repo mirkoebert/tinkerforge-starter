@@ -13,8 +13,9 @@ This project uses Tinkerforge as electrinc framework for siftware developers. Yo
 - Install Java 8 JDK
 
 ## First Step
-- Download Brick Viewer http://www.tinkerforge.com/en/doc/Downloads.html
-- Install and Start Brick Viewer
+- Download Brick Deamon http://www.tinkerforge.com/en/doc/Downloads.html
+- Download Brick Viewer
+- Install and Start Brick Deamon and Brick Viewer
 - Connect all bricklets with the master brick
 - Connect master brick via USB with your computer
 - Push `Connect`in Brick Viewer
