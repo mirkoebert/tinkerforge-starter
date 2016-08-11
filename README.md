@@ -34,4 +34,5 @@ Hint: Get the Bricklet UID from the Brink Viewer and put them into the Java code
 - Tinkerforge Documetaion and Shop: http://www.tinkerforge.com
 - Tinkerforge Wiki: http://www.tinkerunity.org
 - Programming Blog: http://programming-2.blogspot.de/search/label/Tinkerforge
+- Using Call Backs: https://github.com/mirkoebert/tinkerforge-weatherstation
 
