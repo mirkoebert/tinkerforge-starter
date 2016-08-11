@@ -21,6 +21,7 @@ This project uses Tinkerforge as electrinc framework for siftware developers. Yo
 - Push `Connect`in Brick Viewer
 
 ## Challenges
+Hint: Get the Bricklet UID from the Brink Viewer and put them into the Java code.
 - Hello World
 - Simple Themometer
 - Thermomenter and Clock
